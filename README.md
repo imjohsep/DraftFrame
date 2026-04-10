@@ -72,6 +72,12 @@ xcrun notarytool store-credentials DRAFTFRAME_NOTARY \
 
 Clean Swift Package Manager project using [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) for terminal emulation. No Xcode project needed — just `swift build`.
 
+## Acknowledgments
+
+Built with [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) by Miguel de Icaza. Inspired by [Scape](https://scape.work) by Elliot Nash. Designed as a companion for [Claude Code](https://claude.ai/claude-code) by Anthropic.
+
+See [ACKNOWLEDGMENTS.md](ACKNOWLEDGMENTS.md) for full credits.
+
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE)
